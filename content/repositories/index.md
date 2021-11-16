@@ -18,5 +18,5 @@ children:
   - /releasing-projects-on-github
   - /viewing-activity-and-data-for-your-repository
   - /archiving-a-github-repository
----
+---/retrieving-a-github-repository
 
